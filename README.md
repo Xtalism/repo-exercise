@@ -1,5 +1,5 @@
 # repo-exercise
 
-Github Coursera course.
+Version control.
 
 ![Certification](Meta.png)
